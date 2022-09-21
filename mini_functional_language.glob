@@ -1,0 +1,1427 @@
+DIGEST 94af79c650b80d1908740f88c5f2bee0
+Fpv.mini_functional_language
+R23:29 pv.library <> <> lib
+ind 2667:2670 <> term
+constr 2679:2683 <> Const
+constr 2703:2706 <> true
+constr 2719:2723 <> false
+constr 2736:2738 <> Fun
+constr 2777:2780 <> unit
+constr 2793:2795 <> Var
+constr 2818:2821 <> Plus
+constr 2850:2851 <> If
+constr 2888:2890 <> App
+constr 2919:2922 <> RNil
+constr 2935:2939 <> RCons
+constr 2978:2980 <> Sel
+ind 3012:3015 <> type
+constr 3024:3028 <> TBool
+constr 3041:3044 <> TNat
+constr 3057:3060 <> TFun
+constr 3089:3093 <> TUnit
+constr 3106:3110 <> TRNil
+constr 3123:3128 <> TRCons
+R2690:2693 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2687:2689 Coq.Init.Datatypes <> nat ind
+R2694:2697 pv.mini_functional_language <> term:1 ind
+R2710:2713 pv.mini_functional_language <> term:1 ind
+R2727:2730 pv.mini_functional_language <> term:1 ind
+R2748:2751 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2742:2747 Coq.Strings.String <> string ind
+R2756:2759 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2752:2755 pv.mini_functional_language <> type:2 ind
+R2764:2767 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2760:2763 pv.mini_functional_language <> term:1 ind
+R2768:2771 pv.mini_functional_language <> term:1 ind
+R2784:2787 pv.mini_functional_language <> term:1 ind
+R2805:2808 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2799:2804 Coq.Strings.String <> string ind
+R2809:2812 pv.mini_functional_language <> term:1 ind
+R2829:2832 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2825:2828 pv.mini_functional_language <> term:1 ind
+R2837:2840 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2833:2836 pv.mini_functional_language <> term:1 ind
+R2841:2844 pv.mini_functional_language <> term:1 ind
+R2859:2862 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2855:2858 pv.mini_functional_language <> term:1 ind
+R2867:2870 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2863:2866 pv.mini_functional_language <> term:1 ind
+R2875:2878 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2871:2874 pv.mini_functional_language <> term:1 ind
+R2879:2882 pv.mini_functional_language <> term:1 ind
+R2898:2901 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2894:2897 pv.mini_functional_language <> term:1 ind
+R2906:2909 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2902:2905 pv.mini_functional_language <> term:1 ind
+R2910:2913 pv.mini_functional_language <> term:1 ind
+R2926:2929 pv.mini_functional_language <> term:1 ind
+R2949:2952 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2943:2948 Coq.Strings.String <> string ind
+R2957:2960 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2953:2956 pv.mini_functional_language <> term:1 ind
+R2965:2968 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2961:2964 pv.mini_functional_language <> term:1 ind
+R2969:2972 pv.mini_functional_language <> term:1 ind
+R2988:2991 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2984:2987 pv.mini_functional_language <> term:1 ind
+R2998:3001 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R2992:2997 Coq.Strings.String <> string ind
+R3002:3005 pv.mini_functional_language <> term:1 ind
+R3032:3035 pv.mini_functional_language <> type:2 ind
+R3048:3051 pv.mini_functional_language <> type:2 ind
+R3068:3071 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3064:3067 pv.mini_functional_language <> type:2 ind
+R3076:3079 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3072:3075 pv.mini_functional_language <> type:2 ind
+R3080:3083 pv.mini_functional_language <> type:2 ind
+R3097:3100 pv.mini_functional_language <> type:2 ind
+R3114:3117 pv.mini_functional_language <> type:2 ind
+R3138:3141 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3132:3137 Coq.Strings.String <> string ind
+R3146:3149 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3142:3145 pv.mini_functional_language <> type:2 ind
+R3154:3157 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3150:3153 pv.mini_functional_language <> type:2 ind
+R3158:3161 pv.mini_functional_language <> type:2 ind
+ind 3255:3257 <> val
+constr 3281:3286 <> VConst
+constr 3310:3314 <> Vtrue
+constr 3331:3336 <> Vfalse
+constr 3354:3357 <> VFun
+constr 3387:3391 <> Vunit
+constr 3408:3412 <> VRNil
+constr 3429:3434 <> VRCons
+R3265:3268 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3261:3264 pv.mini_functional_language <> term ind
+binder 3288:3288 <> n:7
+R3292:3294 pv.mini_functional_language <> val:5 ind
+R3297:3301 pv.mini_functional_language <> Const constr
+R3303:3303 pv.mini_functional_language <> n:7 var
+R3318:3320 pv.mini_functional_language <> val:5 ind
+R3322:3325 pv.mini_functional_language <> true constr
+R3340:3342 pv.mini_functional_language <> val:5 ind
+R3344:3348 pv.mini_functional_language <> false constr
+binder 3359:3359 <> x:8
+binder 3361:3361 <> T:9
+binder 3363:3363 <> M:10
+R3367:3369 pv.mini_functional_language <> val:5 ind
+R3372:3374 pv.mini_functional_language <> Fun constr
+R3376:3376 pv.mini_functional_language <> x:8 var
+R3378:3378 pv.mini_functional_language <> T:9 var
+R3380:3380 pv.mini_functional_language <> M:10 var
+R3395:3397 pv.mini_functional_language <> val:5 ind
+R3399:3402 pv.mini_functional_language <> unit constr
+R3416:3418 pv.mini_functional_language <> val:5 ind
+R3420:3423 pv.mini_functional_language <> RNil constr
+binder 3436:3436 <> l:11
+binder 3438:3439 <> v1:12
+binder 3441:3442 <> vr:13
+R3456:3463 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3450:3452 pv.mini_functional_language <> val:5 ind
+R3454:3455 pv.mini_functional_language <> v1:12 var
+R3470:3477 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3464:3466 pv.mini_functional_language <> val:5 ind
+R3468:3469 pv.mini_functional_language <> vr:13 var
+R3478:3480 pv.mini_functional_language <> val:5 ind
+R3483:3487 pv.mini_functional_language <> RCons constr
+R3489:3489 pv.mini_functional_language <> l:11 var
+R3491:3492 pv.mini_functional_language <> v1:12 var
+R3494:3495 pv.mini_functional_language <> vr:13 var
+ind 3510:3517 <> rec_term
+constr 3541:3545 <> RMNil
+constr 3571:3576 <> RMCons
+R3525:3528 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3521:3524 pv.mini_functional_language <> term ind
+R3553:3560 pv.mini_functional_language <> rec_term:14 ind
+R3562:3565 pv.mini_functional_language <> RNil constr
+binder 3578:3578 <> l:16
+binder 3580:3580 <> M:17
+binder 3582:3583 <> MR:18
+R3592:3599 pv.mini_functional_language <> rec_term:14 ind
+R3602:3606 pv.mini_functional_language <> RCons constr
+R3608:3608 pv.mini_functional_language <> l:16 var
+R3610:3610 pv.mini_functional_language <> M:17 var
+R3612:3613 pv.mini_functional_language <> MR:18 var
+ind 3628:3635 <> rec_type
+constr 3659:3663 <> RTNil
+constr 3690:3695 <> RTCons
+R3643:3646 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3639:3642 pv.mini_functional_language <> type ind
+R3671:3678 pv.mini_functional_language <> rec_type:19 ind
+R3680:3684 pv.mini_functional_language <> TRNil constr
+binder 3697:3697 <> l:21
+binder 3699:3699 <> T:22
+binder 3701:3702 <> TR:23
+R3710:3717 pv.mini_functional_language <> rec_type:19 ind
+R3720:3725 pv.mini_functional_language <> TRCons constr
+R3727:3727 pv.mini_functional_language <> l:21 var
+R3729:3729 pv.mini_functional_language <> T:22 var
+R3731:3732 pv.mini_functional_language <> TR:23 var
+ind 3747:3753 <> wf_type
+constr 3777:3783 <> wfTBool
+constr 3805:3810 <> wfTNat
+constr 3831:3836 <> wfTFun
+constr 3912:3918 <> wfTUnit
+constr 3940:3946 <> wfTRNil
+constr 3968:3975 <> wfTRCons
+R3761:3764 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3757:3760 pv.mini_functional_language <> type ind
+R3787:3793 pv.mini_functional_language <> wf_type:24 ind
+R3795:3799 pv.mini_functional_language <> TBool constr
+R3814:3820 pv.mini_functional_language <> wf_type:24 ind
+R3822:3825 pv.mini_functional_language <> TNat constr
+binder 3838:3839 <> T1:26
+binder 3841:3842 <> T2:27
+R3861:3868 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3851:3857 pv.mini_functional_language <> wf_type:24 ind
+R3859:3860 pv.mini_functional_language <> T1:26 var
+R3879:3886 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3869:3875 pv.mini_functional_language <> wf_type:24 ind
+R3877:3878 pv.mini_functional_language <> T2:27 var
+R3887:3893 pv.mini_functional_language <> wf_type:24 ind
+R3896:3899 pv.mini_functional_language <> TFun constr
+R3901:3902 pv.mini_functional_language <> T1:26 var
+R3904:3905 pv.mini_functional_language <> T2:27 var
+R3922:3928 pv.mini_functional_language <> wf_type:24 ind
+R3930:3934 pv.mini_functional_language <> TUnit constr
+R3950:3956 pv.mini_functional_language <> wf_type:24 ind
+R3958:3962 pv.mini_functional_language <> TRNil constr
+binder 3977:3977 <> l:28
+binder 3979:3979 <> T:29
+binder 3981:3982 <> TR:30
+R4000:4007 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R3991:3997 pv.mini_functional_language <> wf_type:24 ind
+R3999:3999 pv.mini_functional_language <> T:29 var
+R4018:4025 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4008:4014 pv.mini_functional_language <> wf_type:24 ind
+R4016:4017 pv.mini_functional_language <> TR:30 var
+R4037:4044 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R4026:4033 pv.mini_functional_language <> rec_type ind
+R4035:4036 pv.mini_functional_language <> TR:30 var
+R4045:4051 pv.mini_functional_language <> wf_type:24 ind
+R4054:4059 pv.mini_functional_language <> TRCons constr
+R4061:4061 pv.mini_functional_language <> l:28 var
+R4063:4063 pv.mini_functional_language <> T:29 var
+R4065:4066 pv.mini_functional_language <> TR:30 var
+def 4163:4167 <> subst
+R4174:4179 Coq.Strings.String <> string ind
+binder 4170:4170 <> x:31
+R4187:4190 pv.mini_functional_language <> term ind
+binder 4183:4183 <> N:32
+R4198:4201 pv.mini_functional_language <> term ind
+binder 4194:4194 <> M:33
+R4206:4209 pv.mini_functional_language <> term ind
+R4222:4222 pv.mini_functional_language <> M:33 var
+R4233:4235 pv.mini_functional_language <> Var constr
+R4245:4257 pv.library String eq_dec def
+R4259:4259 pv.mini_functional_language <> x:31 var
+R4275:4275 pv.mini_functional_language <> M:33 var
+R4268:4268 pv.mini_functional_language <> N:32 var
+R4281:4284 pv.mini_functional_language <> Plus constr
+R4295:4298 pv.mini_functional_language <> Plus constr
+R4301:4305 pv.mini_functional_language <> subst:34 def
+R4309:4309 pv.mini_functional_language <> N:32 var
+R4307:4307 pv.mini_functional_language <> x:31 var
+R4316:4320 pv.mini_functional_language <> subst:34 def
+R4324:4324 pv.mini_functional_language <> N:32 var
+R4322:4322 pv.mini_functional_language <> x:31 var
+R4334:4335 pv.mini_functional_language <> If constr
+R4349:4350 pv.mini_functional_language <> If constr
+R4353:4357 pv.mini_functional_language <> subst:34 def
+R4361:4361 pv.mini_functional_language <> N:32 var
+R4359:4359 pv.mini_functional_language <> x:31 var
+R4368:4372 pv.mini_functional_language <> subst:34 def
+R4376:4376 pv.mini_functional_language <> N:32 var
+R4374:4374 pv.mini_functional_language <> x:31 var
+R4383:4387 pv.mini_functional_language <> subst:34 def
+R4391:4391 pv.mini_functional_language <> N:32 var
+R4389:4389 pv.mini_functional_language <> x:31 var
+R4401:4403 pv.mini_functional_language <> Fun constr
+R4418:4430 pv.library String eq_dec def
+R4432:4432 pv.mini_functional_language <> x:31 var
+R4448:4450 pv.mini_functional_language <> Fun constr
+R4457:4461 pv.mini_functional_language <> subst:34 def
+R4465:4465 pv.mini_functional_language <> N:32 var
+R4463:4463 pv.mini_functional_language <> x:31 var
+R4441:4441 pv.mini_functional_language <> M:33 var
+R4475:4477 pv.mini_functional_language <> App constr
+R4488:4490 pv.mini_functional_language <> App constr
+R4493:4497 pv.mini_functional_language <> subst:34 def
+R4501:4501 pv.mini_functional_language <> N:32 var
+R4499:4499 pv.mini_functional_language <> x:31 var
+R4508:4512 pv.mini_functional_language <> subst:34 def
+R4516:4516 pv.mini_functional_language <> N:32 var
+R4514:4514 pv.mini_functional_language <> x:31 var
+R4526:4530 pv.mini_functional_language <> RCons constr
+R4543:4547 pv.mini_functional_language <> RCons constr
+R4552:4556 pv.mini_functional_language <> subst:34 def
+R4560:4560 pv.mini_functional_language <> N:32 var
+R4558:4558 pv.mini_functional_language <> x:31 var
+R4567:4571 pv.mini_functional_language <> subst:34 def
+R4575:4575 pv.mini_functional_language <> N:32 var
+R4573:4573 pv.mini_functional_language <> x:31 var
+R4585:4587 pv.mini_functional_language <> Sel constr
+R4597:4599 pv.mini_functional_language <> Sel constr
+R4602:4606 pv.mini_functional_language <> subst:34 def
+R4610:4610 pv.mini_functional_language <> N:32 var
+R4608:4608 pv.mini_functional_language <> x:31 var
+R4628:4628 pv.mini_functional_language <> M:33 var
+def 5304:5318 <> rec_term_lookup
+R5325:5330 Coq.Strings.String <> string ind
+binder 5321:5321 <> l:36
+R5339:5342 pv.mini_functional_language <> term ind
+binder 5334:5335 <> MR:37
+R5347:5352 Coq.Init.Datatypes <> option ind
+R5354:5357 pv.mini_functional_language <> term ind
+R5370:5371 pv.mini_functional_language <> MR:37 var
+R5382:5386 pv.mini_functional_language <> RCons constr
+R5403:5415 pv.library String eq_dec def
+R5417:5417 pv.mini_functional_language <> l:36 var
+R5439:5453 pv.mini_functional_language <> rec_term_lookup:38 def
+R5455:5455 pv.mini_functional_language <> l:36 var
+R5427:5430 Coq.Init.Datatypes <> Some constr
+R5470:5473 Coq.Init.Datatypes <> None constr
+ind 5662:5665 <> step
+constr 5697:5699 <> Sum
+constr 5782:5789 <> Sum_left
+constr 5854:5862 <> Sum_right
+constr 5940:5946 <> If_true
+constr 5983:5990 <> If_false
+constr 6028:6034 <> If_step
+constr 6108:6111 <> Beta
+constr 6183:6186 <> App1
+constr 6249:6252 <> App2
+constr 6328:6333 <> Select
+constr 6421:6431 <> Eval_Select
+constr 6489:6504 <> Eval_Record_Head
+constr 6579:6594 <> Eval_Record_Tail
+R5673:5676 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5669:5672 pv.mini_functional_language <> term ind
+R5681:5684 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5677:5680 pv.mini_functional_language <> term ind
+binder 5701:5702 <> n1:42
+binder 5704:5705 <> n2:43
+binder 5707:5707 <> n:44
+R5726:5733 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5722:5724 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R5717:5719 Coq.Init.Nat <> ::nat_scope:x_'+'_x not
+R5715:5716 pv.mini_functional_language <> n1:42 var
+R5720:5721 pv.mini_functional_language <> n2:43 var
+R5725:5725 pv.mini_functional_language <> n:44 var
+R5734:5737 pv.mini_functional_language <> step:40 ind
+R5769:5773 pv.mini_functional_language <> Const constr
+R5775:5775 pv.mini_functional_language <> n:44 var
+R5740:5743 pv.mini_functional_language <> Plus constr
+R5746:5750 pv.mini_functional_language <> Const constr
+R5752:5753 pv.mini_functional_language <> n1:42 var
+R5757:5761 pv.mini_functional_language <> Const constr
+R5763:5764 pv.mini_functional_language <> n2:43 var
+binder 5791:5791 <> M:45
+binder 5793:5793 <> N:46
+binder 5795:5796 <> M':47
+R5813:5821 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5804:5807 pv.mini_functional_language <> step:40 ind
+R5811:5812 pv.mini_functional_language <> M':47 var
+R5809:5809 pv.mini_functional_language <> M:45 var
+R5822:5825 pv.mini_functional_language <> step:40 ind
+R5839:5842 pv.mini_functional_language <> Plus constr
+R5844:5845 pv.mini_functional_language <> M':47 var
+R5847:5847 pv.mini_functional_language <> N:46 var
+R5828:5831 pv.mini_functional_language <> Plus constr
+R5833:5833 pv.mini_functional_language <> M:45 var
+R5835:5835 pv.mini_functional_language <> N:46 var
+binder 5864:5864 <> M:48
+binder 5866:5866 <> v:49
+binder 5868:5869 <> M':50
+R5882:5889 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5877:5879 pv.mini_functional_language <> val ind
+R5881:5881 pv.mini_functional_language <> v:49 var
+R5899:5907 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R5890:5893 pv.mini_functional_language <> step:40 ind
+R5897:5898 pv.mini_functional_language <> M':50 var
+R5895:5895 pv.mini_functional_language <> M:48 var
+R5908:5911 pv.mini_functional_language <> step:40 ind
+R5925:5928 pv.mini_functional_language <> Plus constr
+R5930:5930 pv.mini_functional_language <> v:49 var
+R5932:5933 pv.mini_functional_language <> M':50 var
+R5914:5917 pv.mini_functional_language <> Plus constr
+R5919:5919 pv.mini_functional_language <> v:49 var
+R5921:5921 pv.mini_functional_language <> M:48 var
+binder 5948:5948 <> M:51
+binder 5950:5950 <> N:52
+R5958:5961 pv.mini_functional_language <> step:40 ind
+R5977:5977 pv.mini_functional_language <> M:51 var
+R5964:5965 pv.mini_functional_language <> If constr
+R5967:5970 pv.mini_functional_language <> true constr
+R5972:5972 pv.mini_functional_language <> M:51 var
+R5974:5974 pv.mini_functional_language <> N:52 var
+binder 5992:5992 <> M:53
+binder 5994:5994 <> N:54
+R6002:6005 pv.mini_functional_language <> step:40 ind
+R6022:6022 pv.mini_functional_language <> N:54 var
+R6008:6009 pv.mini_functional_language <> If constr
+R6011:6015 pv.mini_functional_language <> false constr
+R6017:6017 pv.mini_functional_language <> M:53 var
+R6019:6019 pv.mini_functional_language <> N:54 var
+binder 6036:6037 <> M1:55
+binder 6039:6041 <> M1':56
+binder 6043:6044 <> M2:57
+binder 6046:6047 <> M3:58
+R6066:6069 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6055:6058 pv.mini_functional_language <> step:40 ind
+R6063:6065 pv.mini_functional_language <> M1':56 var
+R6060:6061 pv.mini_functional_language <> M1:55 var
+R6070:6073 pv.mini_functional_language <> step:40 ind
+R6090:6091 pv.mini_functional_language <> If constr
+R6093:6095 pv.mini_functional_language <> M1':56 var
+R6097:6098 pv.mini_functional_language <> M2:57 var
+R6100:6101 pv.mini_functional_language <> M3:58 var
+R6076:6077 pv.mini_functional_language <> If constr
+R6079:6080 pv.mini_functional_language <> M1:55 var
+R6082:6083 pv.mini_functional_language <> M2:57 var
+R6085:6086 pv.mini_functional_language <> M3:58 var
+binder 6113:6113 <> x:59
+binder 6115:6115 <> T:60
+binder 6117:6117 <> M:61
+binder 6119:6119 <> v:62
+R6132:6139 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6127:6129 pv.mini_functional_language <> val ind
+R6131:6131 pv.mini_functional_language <> v:62 var
+R6140:6143 pv.mini_functional_language <> step:40 ind
+R6166:6170 pv.mini_functional_language <> subst def
+R6172:6172 pv.mini_functional_language <> x:59 var
+R6174:6174 pv.mini_functional_language <> v:62 var
+R6176:6176 pv.mini_functional_language <> M:61 var
+R6146:6148 pv.mini_functional_language <> App constr
+R6151:6153 pv.mini_functional_language <> Fun constr
+R6155:6155 pv.mini_functional_language <> x:59 var
+R6157:6157 pv.mini_functional_language <> T:60 var
+R6159:6159 pv.mini_functional_language <> M:61 var
+R6162:6162 pv.mini_functional_language <> v:62 var
+binder 6188:6188 <> M:63
+binder 6190:6190 <> N:64
+binder 6192:6193 <> M':65
+R6210:6218 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6201:6204 pv.mini_functional_language <> step:40 ind
+R6208:6209 pv.mini_functional_language <> M':65 var
+R6206:6206 pv.mini_functional_language <> M:63 var
+R6219:6222 pv.mini_functional_language <> step:40 ind
+R6235:6237 pv.mini_functional_language <> App constr
+R6239:6240 pv.mini_functional_language <> M':65 var
+R6242:6242 pv.mini_functional_language <> N:64 var
+R6225:6227 pv.mini_functional_language <> App constr
+R6229:6229 pv.mini_functional_language <> M:63 var
+R6231:6231 pv.mini_functional_language <> N:64 var
+binder 6254:6254 <> v:66
+binder 6256:6256 <> M:67
+binder 6258:6259 <> M':68
+R6272:6279 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6267:6269 pv.mini_functional_language <> val ind
+R6271:6271 pv.mini_functional_language <> v:66 var
+R6289:6297 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6280:6283 pv.mini_functional_language <> step:40 ind
+R6287:6288 pv.mini_functional_language <> M':68 var
+R6285:6285 pv.mini_functional_language <> M:67 var
+R6298:6301 pv.mini_functional_language <> step:40 ind
+R6314:6316 pv.mini_functional_language <> App constr
+R6318:6318 pv.mini_functional_language <> v:66 var
+R6320:6321 pv.mini_functional_language <> M':68 var
+R6304:6306 pv.mini_functional_language <> App constr
+R6308:6308 pv.mini_functional_language <> v:66 var
+R6310:6310 pv.mini_functional_language <> M:67 var
+binder 6335:6335 <> l:69
+binder 6337:6338 <> vr:70
+binder 6340:6340 <> v:71
+R6354:6361 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6348:6350 pv.mini_functional_language <> val ind
+R6352:6353 pv.mini_functional_language <> vr:70 var
+R6391:6398 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6382:6384 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R6362:6376 pv.mini_functional_language <> rec_term_lookup def
+R6378:6378 pv.mini_functional_language <> l:69 var
+R6380:6381 pv.mini_functional_language <> vr:70 var
+R6385:6388 Coq.Init.Datatypes <> Some constr
+R6390:6390 pv.mini_functional_language <> v:71 var
+R6399:6402 pv.mini_functional_language <> step:40 ind
+R6415:6415 pv.mini_functional_language <> v:71 var
+R6405:6407 pv.mini_functional_language <> Sel constr
+R6409:6410 pv.mini_functional_language <> vr:70 var
+R6412:6412 pv.mini_functional_language <> l:69 var
+binder 6433:6433 <> M:72
+binder 6435:6436 <> M':73
+binder 6438:6438 <> l:74
+R6455:6458 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6446:6449 pv.mini_functional_language <> step:40 ind
+R6453:6454 pv.mini_functional_language <> M':73 var
+R6451:6451 pv.mini_functional_language <> M:72 var
+R6459:6462 pv.mini_functional_language <> step:40 ind
+R6475:6477 pv.mini_functional_language <> Sel constr
+R6479:6480 pv.mini_functional_language <> M':73 var
+R6482:6482 pv.mini_functional_language <> l:74 var
+R6465:6467 pv.mini_functional_language <> Sel constr
+R6469:6469 pv.mini_functional_language <> M:72 var
+R6471:6471 pv.mini_functional_language <> l:74 var
+binder 6506:6506 <> l:75
+binder 6508:6508 <> M:76
+binder 6510:6511 <> M':77
+binder 6513:6514 <> MR:78
+R6531:6538 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6522:6525 pv.mini_functional_language <> step:40 ind
+R6529:6530 pv.mini_functional_language <> M':77 var
+R6527:6527 pv.mini_functional_language <> M:76 var
+R6539:6542 pv.mini_functional_language <> step:40 ind
+R6560:6564 pv.mini_functional_language <> RCons constr
+R6566:6566 pv.mini_functional_language <> l:75 var
+R6568:6569 pv.mini_functional_language <> M':77 var
+R6571:6572 pv.mini_functional_language <> MR:78 var
+R6545:6549 pv.mini_functional_language <> RCons constr
+R6551:6551 pv.mini_functional_language <> l:75 var
+R6553:6553 pv.mini_functional_language <> M:76 var
+R6555:6556 pv.mini_functional_language <> MR:78 var
+binder 6596:6596 <> l:79
+binder 6598:6598 <> v:80
+binder 6600:6601 <> MR:81
+binder 6603:6605 <> MR':82
+R6618:6625 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6613:6615 pv.mini_functional_language <> val ind
+R6617:6617 pv.mini_functional_language <> v:80 var
+R6637:6644 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6626:6629 pv.mini_functional_language <> step:40 ind
+R6634:6636 pv.mini_functional_language <> MR':82 var
+R6631:6632 pv.mini_functional_language <> MR:81 var
+R6645:6648 pv.mini_functional_language <> step:40 ind
+R6666:6670 pv.mini_functional_language <> RCons constr
+R6672:6672 pv.mini_functional_language <> l:79 var
+R6674:6674 pv.mini_functional_language <> v:80 var
+R6676:6678 pv.mini_functional_language <> MR':82 var
+R6651:6655 pv.mini_functional_language <> RCons constr
+R6657:6657 pv.mini_functional_language <> l:79 var
+R6659:6659 pv.mini_functional_language <> v:80 var
+R6661:6662 pv.mini_functional_language <> MR:81 var
+ind 6824:6828 <> steps
+constr 6860:6869 <> steps_refl
+constr 6894:6903 <> steps_step
+R6836:6839 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6832:6835 pv.mini_functional_language <> term ind
+R6844:6847 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6840:6843 pv.mini_functional_language <> term ind
+binder 6871:6871 <> M:85
+R6880:6884 pv.mini_functional_language <> steps:83 ind
+R6888:6888 pv.mini_functional_language <> M:85 var
+R6886:6886 pv.mini_functional_language <> M:85 var
+binder 6905:6906 <> M1:86
+binder 6908:6909 <> M2:87
+binder 6911:6912 <> M3:88
+R6931:6939 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6921:6924 pv.mini_functional_language <> step ind
+R6926:6927 pv.mini_functional_language <> M1:86 var
+R6929:6930 pv.mini_functional_language <> M2:87 var
+R6951:6959 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6940:6944 pv.mini_functional_language <> steps:83 ind
+R6949:6950 pv.mini_functional_language <> M3:88 var
+R6946:6947 pv.mini_functional_language <> M2:87 var
+R6960:6964 pv.mini_functional_language <> steps:83 ind
+R6969:6970 pv.mini_functional_language <> M3:88 var
+R6966:6967 pv.mini_functional_language <> M1:86 var
+def 8819:8833 <> rec_type_lookup
+R8840:8845 Coq.Strings.String <> string ind
+binder 8836:8836 <> l:89
+R8854:8857 pv.mini_functional_language <> type ind
+binder 8849:8850 <> TR:90
+R8862:8867 Coq.Init.Datatypes <> option ind
+R8869:8872 pv.mini_functional_language <> type ind
+R8885:8886 pv.mini_functional_language <> TR:90 var
+R8897:8902 pv.mini_functional_language <> TRCons constr
+R8919:8931 pv.library String eq_dec def
+R8933:8933 pv.mini_functional_language <> l:89 var
+R8955:8969 pv.mini_functional_language <> rec_type_lookup:91 def
+R8971:8971 pv.mini_functional_language <> l:89 var
+R8943:8946 Coq.Init.Datatypes <> Some constr
+R8986:8989 Coq.Init.Datatypes <> None constr
+ind 9010:9014 <> typed
+constr 9064:9069 <> T_True
+constr 9110:9116 <> T_False
+constr 9158:9162 <> T_Int
+constr 9209:9213 <> T_Fun
+constr 9384:9388 <> T_Var
+constr 9493:9497 <> T_Sum
+constr 9602:9613 <> T_IfThenElse
+constr 9749:9753 <> T_App
+constr 9867:9872 <> T_Unit
+constr 9913:9918 <> T_RNil
+constr 9959:9965 <> T_RCons
+constr 10124:10131 <> T_Select
+R9032:9035 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9018:9026 pv.library <> stringmap abbrev
+R9028:9031 pv.mini_functional_language <> type ind
+R9040:9043 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9036:9039 pv.mini_functional_language <> term ind
+R9048:9051 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9044:9047 pv.mini_functional_language <> type ind
+binder 9071:9075 <> Gamma:95
+R9083:9087 pv.mini_functional_language <> typed:93 ind
+R9100:9104 pv.mini_functional_language <> TBool constr
+R9095:9098 pv.mini_functional_language <> true constr
+R9089:9093 pv.mini_functional_language <> Gamma:95 var
+binder 9118:9122 <> Gamma:96
+R9130:9134 pv.mini_functional_language <> typed:93 ind
+R9148:9152 pv.mini_functional_language <> TBool constr
+R9142:9146 pv.mini_functional_language <> false constr
+R9136:9140 pv.mini_functional_language <> Gamma:96 var
+binder 9164:9168 <> Gamma:97
+binder 9170:9170 <> n:98
+R9178:9182 pv.mini_functional_language <> typed:93 ind
+R9200:9203 pv.mini_functional_language <> TNat constr
+R9191:9195 pv.mini_functional_language <> Const constr
+R9197:9197 pv.mini_functional_language <> n:98 var
+R9184:9188 pv.mini_functional_language <> Gamma:97 var
+binder 9215:9219 <> Gamma:99
+binder 9221:9221 <> x:100
+binder 9223:9223 <> M:101
+binder 9225:9226 <> T1:102
+binder 9228:9229 <> T2:103
+R9247:9254 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9237:9243 pv.mini_functional_language <> wf_type ind
+R9245:9246 pv.mini_functional_language <> T1:102 var
+R9286:9293 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9279:9281 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9255:9270 pv.library StringMap lookup def
+R9278:9278 pv.mini_functional_language <> x:100 var
+R9272:9276 pv.mini_functional_language <> Gamma:99 var
+R9282:9285 Coq.Init.Datatypes <> None constr
+R9334:9341 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9294:9298 pv.mini_functional_language <> typed:93 ind
+R9332:9333 pv.mini_functional_language <> T2:103 var
+R9330:9330 pv.mini_functional_language <> M:101 var
+R9301:9316 pv.library StringMap insert def
+R9323:9327 pv.mini_functional_language <> Gamma:99 var
+R9320:9321 pv.mini_functional_language <> T1:102 var
+R9318:9318 pv.mini_functional_language <> x:100 var
+R9342:9346 pv.mini_functional_language <> typed:93 ind
+R9368:9371 pv.mini_functional_language <> TFun constr
+R9373:9374 pv.mini_functional_language <> T1:102 var
+R9376:9377 pv.mini_functional_language <> T2:103 var
+R9355:9357 pv.mini_functional_language <> Fun constr
+R9359:9359 pv.mini_functional_language <> x:100 var
+R9361:9362 pv.mini_functional_language <> T1:102 var
+R9364:9364 pv.mini_functional_language <> M:101 var
+R9348:9352 pv.mini_functional_language <> Gamma:99 var
+binder 9390:9394 <> Gamma:104
+binder 9396:9396 <> x:105
+binder 9398:9398 <> T:106
+R9440:9448 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9431:9433 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R9407:9422 pv.library StringMap lookup def
+R9430:9430 pv.mini_functional_language <> x:105 var
+R9424:9428 pv.mini_functional_language <> Gamma:104 var
+R9434:9437 Coq.Init.Datatypes <> Some constr
+R9439:9439 pv.mini_functional_language <> T:106 var
+R9458:9466 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9449:9455 pv.mini_functional_language <> wf_type ind
+R9457:9457 pv.mini_functional_language <> T:106 var
+R9467:9471 pv.mini_functional_language <> typed:93 ind
+R9487:9487 pv.mini_functional_language <> T:106 var
+R9480:9482 pv.mini_functional_language <> Var constr
+R9484:9484 pv.mini_functional_language <> x:105 var
+R9473:9477 pv.mini_functional_language <> Gamma:104 var
+binder 9499:9503 <> Gamma:107
+binder 9505:9505 <> M:108
+binder 9507:9507 <> N:109
+R9534:9542 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9516:9520 pv.mini_functional_language <> typed:93 ind
+R9530:9533 pv.mini_functional_language <> TNat constr
+R9528:9528 pv.mini_functional_language <> M:108 var
+R9522:9526 pv.mini_functional_language <> Gamma:107 var
+R9561:9569 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9543:9547 pv.mini_functional_language <> typed:93 ind
+R9557:9560 pv.mini_functional_language <> TNat constr
+R9555:9555 pv.mini_functional_language <> N:109 var
+R9549:9553 pv.mini_functional_language <> Gamma:107 var
+R9570:9574 pv.mini_functional_language <> typed:93 ind
+R9593:9596 pv.mini_functional_language <> TNat constr
+R9583:9586 pv.mini_functional_language <> Plus constr
+R9588:9588 pv.mini_functional_language <> M:108 var
+R9590:9590 pv.mini_functional_language <> N:109 var
+R9576:9580 pv.mini_functional_language <> Gamma:107 var
+binder 9615:9619 <> Gamma:110
+binder 9621:9622 <> M1:111
+binder 9624:9625 <> M2:112
+binder 9627:9628 <> M3:113
+binder 9630:9630 <> T:114
+R9659:9666 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9639:9643 pv.mini_functional_language <> typed:93 ind
+R9654:9658 pv.mini_functional_language <> TBool constr
+R9651:9652 pv.mini_functional_language <> M1:111 var
+R9645:9649 pv.mini_functional_language <> Gamma:110 var
+R9683:9691 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9667:9671 pv.mini_functional_language <> typed:93 ind
+R9682:9682 pv.mini_functional_language <> T:114 var
+R9679:9680 pv.mini_functional_language <> M2:112 var
+R9673:9677 pv.mini_functional_language <> Gamma:110 var
+R9708:9716 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9692:9696 pv.mini_functional_language <> typed:93 ind
+R9707:9707 pv.mini_functional_language <> T:114 var
+R9704:9705 pv.mini_functional_language <> M3:113 var
+R9698:9702 pv.mini_functional_language <> Gamma:110 var
+R9717:9721 pv.mini_functional_language <> typed:93 ind
+R9743:9743 pv.mini_functional_language <> T:114 var
+R9730:9731 pv.mini_functional_language <> If constr
+R9733:9734 pv.mini_functional_language <> M1:111 var
+R9736:9737 pv.mini_functional_language <> M2:112 var
+R9739:9740 pv.mini_functional_language <> M3:113 var
+R9723:9727 pv.mini_functional_language <> Gamma:110 var
+binder 9755:9759 <> Gamma:115
+binder 9761:9761 <> M:116
+binder 9763:9763 <> N:117
+binder 9765:9766 <> T1:118
+binder 9768:9769 <> T2:119
+R9804:9812 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9778:9782 pv.mini_functional_language <> typed:93 ind
+R9793:9796 pv.mini_functional_language <> TFun constr
+R9798:9799 pv.mini_functional_language <> T1:118 var
+R9801:9802 pv.mini_functional_language <> T2:119 var
+R9790:9790 pv.mini_functional_language <> M:116 var
+R9784:9788 pv.mini_functional_language <> Gamma:115 var
+R9829:9837 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9813:9817 pv.mini_functional_language <> typed:93 ind
+R9827:9828 pv.mini_functional_language <> T1:118 var
+R9825:9825 pv.mini_functional_language <> N:117 var
+R9819:9823 pv.mini_functional_language <> Gamma:115 var
+R9838:9842 pv.mini_functional_language <> typed:93 ind
+R9860:9861 pv.mini_functional_language <> T2:119 var
+R9851:9853 pv.mini_functional_language <> App constr
+R9855:9855 pv.mini_functional_language <> M:116 var
+R9857:9857 pv.mini_functional_language <> N:117 var
+R9844:9848 pv.mini_functional_language <> Gamma:115 var
+binder 9874:9878 <> Gamma:120
+R9886:9890 pv.mini_functional_language <> typed:93 ind
+R9903:9907 pv.mini_functional_language <> TUnit constr
+R9898:9901 pv.mini_functional_language <> unit constr
+R9892:9896 pv.mini_functional_language <> Gamma:120 var
+binder 9920:9924 <> Gamma:121
+R9932:9936 pv.mini_functional_language <> typed:93 ind
+R9949:9953 pv.mini_functional_language <> TRNil constr
+R9944:9947 pv.mini_functional_language <> RNil constr
+R9938:9942 pv.mini_functional_language <> Gamma:121 var
+binder 9967:9971 <> Gamma:122
+binder 9973:9973 <> l:123
+binder 9975:9975 <> M:124
+binder 9977:9977 <> T:125
+binder 9979:9980 <> MR:126
+binder 9982:9983 <> TR:127
+R10006:10013 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9991:9995 pv.mini_functional_language <> typed:93 ind
+R10005:10005 pv.mini_functional_language <> T:125 var
+R10003:10003 pv.mini_functional_language <> M:124 var
+R9997:10001 pv.mini_functional_language <> Gamma:122 var
+R10031:10038 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10014:10018 pv.mini_functional_language <> typed:93 ind
+R10029:10030 pv.mini_functional_language <> TR:127 var
+R10026:10027 pv.mini_functional_language <> MR:126 var
+R10020:10024 pv.mini_functional_language <> Gamma:122 var
+R10050:10057 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10039:10046 pv.mini_functional_language <> rec_term ind
+R10048:10049 pv.mini_functional_language <> MR:126 var
+R10069:10076 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10058:10065 pv.mini_functional_language <> rec_type ind
+R10067:10068 pv.mini_functional_language <> TR:127 var
+R10077:10081 pv.mini_functional_language <> typed:93 ind
+R10105:10110 pv.mini_functional_language <> TRCons constr
+R10112:10112 pv.mini_functional_language <> l:123 var
+R10114:10114 pv.mini_functional_language <> T:125 var
+R10116:10117 pv.mini_functional_language <> TR:127 var
+R10090:10094 pv.mini_functional_language <> RCons constr
+R10096:10096 pv.mini_functional_language <> l:123 var
+R10098:10098 pv.mini_functional_language <> M:124 var
+R10100:10101 pv.mini_functional_language <> MR:126 var
+R10083:10087 pv.mini_functional_language <> Gamma:122 var
+binder 10133:10137 <> Gamma:128
+binder 10139:10139 <> M:129
+binder 10141:10141 <> l:130
+binder 10143:10143 <> T:131
+binder 10145:10146 <> TR:132
+R10170:10178 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10154:10158 pv.mini_functional_language <> typed:93 ind
+R10168:10169 pv.mini_functional_language <> TR:132 var
+R10166:10166 pv.mini_functional_language <> M:129 var
+R10160:10164 pv.mini_functional_language <> Gamma:128 var
+R10208:10215 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10199:10201 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R10179:10193 pv.mini_functional_language <> rec_type_lookup def
+R10195:10195 pv.mini_functional_language <> l:130 var
+R10197:10198 pv.mini_functional_language <> TR:132 var
+R10202:10205 Coq.Init.Datatypes <> Some constr
+R10207:10207 pv.mini_functional_language <> T:131 var
+R10216:10220 pv.mini_functional_language <> typed:93 ind
+R10238:10238 pv.mini_functional_language <> T:131 var
+R10229:10231 pv.mini_functional_language <> Sel constr
+R10233:10233 pv.mini_functional_language <> M:129 var
+R10235:10235 pv.mini_functional_language <> l:130 var
+R10222:10226 pv.mini_functional_language <> Gamma:128 var
+def 11429:11438 <> well_typed
+R11445:11448 pv.mini_functional_language <> term ind
+binder 11441:11441 <> M:133
+R11463:11469 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R11471:11472 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 11470:11470 <> T:134
+R11473:11479 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R11485:11486 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 11480:11484 <> Gamma:135
+R11487:11491 pv.mini_functional_language <> typed ind
+R11493:11497 pv.mini_functional_language <> Gamma:135 var
+R11499:11499 pv.mini_functional_language <> M:133 var
+R11501:11501 pv.mini_functional_language <> T:134 var
+def 11517:11524 <> term_1_1
+R11528:11531 pv.mini_functional_language <> term ind
+R11538:11540 pv.mini_functional_language <> Fun constr
+R11547:11550 pv.mini_functional_language <> TFun constr
+R11552:11556 pv.mini_functional_language <> TBool constr
+R11558:11562 pv.mini_functional_language <> TBool constr
+R11566:11568 pv.mini_functional_language <> Fun constr
+R11574:11578 pv.mini_functional_language <> TBool constr
+R11580:11583 pv.mini_functional_language <> true constr
+prf 11594:11605 <> exercise_1_1
+R11611:11615 pv.mini_functional_language <> typed ind
+R11617:11631 pv.library StringMap empty def
+R11633:11640 pv.mini_functional_language <> term_1_1 def
+R11643:11646 pv.mini_functional_language <> TFun constr
+R11649:11652 pv.mini_functional_language <> TFun constr
+R11654:11658 pv.mini_functional_language <> TBool constr
+R11660:11664 pv.mini_functional_language <> TBool constr
+R11668:11671 pv.mini_functional_language <> TFun constr
+R11673:11677 pv.mini_functional_language <> TBool constr
+R11679:11683 pv.mini_functional_language <> TBool constr
+R11703:11707 pv.mini_functional_language <> T_Fun constr
+R11703:11707 pv.mini_functional_language <> T_Fun constr
+R11720:11725 pv.mini_functional_language <> wfTFun constr
+R11734:11740 pv.mini_functional_language <> wfTBool constr
+R11720:11725 pv.mini_functional_language <> wfTFun constr
+R11734:11740 pv.mini_functional_language <> wfTBool constr
+R11734:11740 pv.mini_functional_language <> wfTBool constr
+R11753:11774 pv.library StringMap lookup_empty thm
+R11753:11774 pv.library StringMap lookup_empty thm
+R11787:11791 pv.mini_functional_language <> T_Fun constr
+R11787:11791 pv.mini_functional_language <> T_Fun constr
+R11806:11812 pv.mini_functional_language <> wfTBool constr
+R11806:11812 pv.mini_functional_language <> wfTBool constr
+R11829:11851 pv.library StringMap lookup_insert thm
+R11829:11851 pv.library StringMap lookup_insert thm
+R11829:11851 pv.library StringMap lookup_insert thm
+R11866:11882 pv.library String eq_dec_neq thm
+R11866:11882 pv.library String eq_dec_neq thm
+R11915:11920 pv.mini_functional_language <> T_True constr
+R11915:11920 pv.mini_functional_language <> T_True constr
+def 11941:11948 <> term_1_2
+R11952:11955 pv.mini_functional_language <> term ind
+R11962:11964 pv.mini_functional_language <> Fun constr
+R11971:11974 pv.mini_functional_language <> TFun constr
+R11976:11980 pv.mini_functional_language <> TBool constr
+R11982:11985 pv.mini_functional_language <> TNat constr
+R11989:11991 pv.mini_functional_language <> Fun constr
+R11997:12001 pv.mini_functional_language <> TBool constr
+R12004:12008 pv.mini_functional_language <> Const constr
+prf 12022:12033 <> exercise_1_2
+R12039:12043 pv.mini_functional_language <> typed ind
+R12045:12059 pv.library StringMap empty def
+R12061:12068 pv.mini_functional_language <> term_1_2 def
+R12071:12074 pv.mini_functional_language <> TFun constr
+R12077:12080 pv.mini_functional_language <> TFun constr
+R12082:12086 pv.mini_functional_language <> TBool constr
+R12088:12091 pv.mini_functional_language <> TNat constr
+R12095:12098 pv.mini_functional_language <> TFun constr
+R12100:12104 pv.mini_functional_language <> TBool constr
+R12106:12109 pv.mini_functional_language <> TNat constr
+R12129:12133 pv.mini_functional_language <> T_Fun constr
+R12129:12133 pv.mini_functional_language <> T_Fun constr
+R12146:12151 pv.mini_functional_language <> wfTFun constr
+R12146:12151 pv.mini_functional_language <> wfTFun constr
+R12166:12172 pv.mini_functional_language <> wfTBool constr
+R12166:12172 pv.mini_functional_language <> wfTBool constr
+R12187:12192 pv.mini_functional_language <> wfTNat constr
+R12187:12192 pv.mini_functional_language <> wfTNat constr
+R12205:12226 pv.library StringMap lookup_empty thm
+R12205:12226 pv.library StringMap lookup_empty thm
+R12239:12243 pv.mini_functional_language <> T_Fun constr
+R12239:12243 pv.mini_functional_language <> T_Fun constr
+R12258:12264 pv.mini_functional_language <> wfTBool constr
+R12258:12264 pv.mini_functional_language <> wfTBool constr
+R12281:12303 pv.library StringMap lookup_insert thm
+R12281:12303 pv.library StringMap lookup_insert thm
+R12281:12303 pv.library StringMap lookup_insert thm
+R12318:12334 pv.library String eq_dec_neq thm
+R12318:12334 pv.library String eq_dec_neq thm
+R12367:12371 pv.mini_functional_language <> T_Int constr
+R12367:12371 pv.mini_functional_language <> T_Int constr
+def 12392:12397 <> term_2
+R12401:12404 pv.mini_functional_language <> term ind
+R12411:12413 pv.mini_functional_language <> App constr
+R12416:12418 pv.mini_functional_language <> Fun constr
+R12424:12427 pv.mini_functional_language <> TNat constr
+R12429:12432 pv.mini_functional_language <> true constr
+R12435:12439 pv.mini_functional_language <> false constr
+prf 12449:12458 <> exercise_2
+R12464:12465 Coq.Init.Logic <> ::type_scope:'~'_x not
+R12466:12475 pv.mini_functional_language <> well_typed def
+R12477:12482 pv.mini_functional_language <> term_2 def
+R12501:12510 pv.mini_functional_language <> well_typed def
+def 12591:12596 <> term_3
+R12600:12603 pv.mini_functional_language <> term ind
+R12610:12612 pv.mini_functional_language <> App constr
+R12615:12617 pv.mini_functional_language <> App constr
+R12620:12622 pv.mini_functional_language <> Var constr
+R12630:12632 pv.mini_functional_language <> Var constr
+R12641:12643 pv.mini_functional_language <> Var constr
+prf 12658:12667 <> exercise_3
+R12673:12679 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R12685:12686 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 12680:12684 <> Gamma:136
+R12687:12691 pv.mini_functional_language <> typed ind
+R12693:12697 pv.mini_functional_language <> Gamma:136 var
+R12699:12704 pv.mini_functional_language <> term_3 def
+R12706:12710 pv.mini_functional_language <> TBool constr
+R12730:12745 pv.library StringMap insert def
+R12784:12799 pv.library StringMap insert def
+R12812:12830 pv.library StringMap singleton def
+R12836:12840 pv.mini_functional_language <> TBool constr
+R12805:12809 pv.mini_functional_language <> TBool constr
+R12752:12755 pv.mini_functional_language <> TFun constr
+R12757:12761 pv.mini_functional_language <> TBool constr
+R12764:12767 pv.mini_functional_language <> TFun constr
+R12769:12773 pv.mini_functional_language <> TBool constr
+R12775:12779 pv.mini_functional_language <> TBool constr
+R12730:12745 pv.library StringMap insert def
+R12784:12799 pv.library StringMap insert def
+R12812:12830 pv.library StringMap singleton def
+R12836:12840 pv.mini_functional_language <> TBool constr
+R12805:12809 pv.mini_functional_language <> TBool constr
+R12752:12755 pv.mini_functional_language <> TFun constr
+R12757:12761 pv.mini_functional_language <> TBool constr
+R12764:12767 pv.mini_functional_language <> TFun constr
+R12769:12773 pv.mini_functional_language <> TBool constr
+R12775:12779 pv.mini_functional_language <> TBool constr
+R12855:12859 pv.mini_functional_language <> T_App constr
+R12855:12859 pv.mini_functional_language <> T_App constr
+R12873:12877 pv.mini_functional_language <> T_App constr
+R12873:12877 pv.mini_functional_language <> T_App constr
+R12892:12896 pv.mini_functional_language <> T_Var constr
+R12892:12896 pv.mini_functional_language <> T_Var constr
+R12915:12937 pv.library StringMap lookup_insert thm
+R12915:12937 pv.library StringMap lookup_insert thm
+R12915:12937 pv.library StringMap lookup_insert thm
+R12955:12970 pv.library String eq_dec_eq thm
+R12955:12970 pv.library String eq_dec_eq thm
+R12987:12992 pv.mini_functional_language <> wfTFun constr
+R12987:12992 pv.mini_functional_language <> wfTFun constr
+R13012:13018 pv.mini_functional_language <> wfTBool constr
+R13012:13018 pv.mini_functional_language <> wfTBool constr
+R13038:13043 pv.mini_functional_language <> wfTFun constr
+R13038:13043 pv.mini_functional_language <> wfTFun constr
+R13065:13071 pv.mini_functional_language <> wfTBool constr
+R13065:13071 pv.mini_functional_language <> wfTBool constr
+R13093:13099 pv.mini_functional_language <> wfTBool constr
+R13093:13099 pv.mini_functional_language <> wfTBool constr
+R13114:13118 pv.mini_functional_language <> T_Var constr
+R13114:13118 pv.mini_functional_language <> T_Var constr
+R13137:13159 pv.library StringMap lookup_insert thm
+R13137:13159 pv.library StringMap lookup_insert thm
+R13137:13159 pv.library StringMap lookup_insert thm
+R13179:13195 pv.library String eq_dec_neq thm
+R13179:13195 pv.library String eq_dec_neq thm
+R13179:13195 pv.library String eq_dec_neq thm
+R13179:13195 pv.library String eq_dec_neq thm
+R13230:13252 pv.library StringMap lookup_insert thm
+R13230:13252 pv.library StringMap lookup_insert thm
+R13230:13252 pv.library StringMap lookup_insert thm
+R13272:13288 pv.library String eq_dec_neq thm
+R13272:13288 pv.library String eq_dec_neq thm
+R13272:13288 pv.library String eq_dec_neq thm
+R13272:13288 pv.library String eq_dec_neq thm
+R13323:13348 pv.library StringMap lookup_singleton thm
+R13323:13348 pv.library StringMap lookup_singleton thm
+R13323:13348 pv.library StringMap lookup_singleton thm
+R13365:13380 pv.library String eq_dec_eq thm
+R13365:13380 pv.library String eq_dec_eq thm
+R13397:13403 pv.mini_functional_language <> wfTBool constr
+R13397:13403 pv.mini_functional_language <> wfTBool constr
+R13417:13421 pv.mini_functional_language <> T_Var constr
+R13417:13421 pv.mini_functional_language <> T_Var constr
+R13438:13460 pv.library StringMap lookup_insert thm
+R13438:13460 pv.library StringMap lookup_insert thm
+R13438:13460 pv.library StringMap lookup_insert thm
+R13478:13494 pv.library String eq_dec_neq thm
+R13478:13494 pv.library String eq_dec_neq thm
+R13478:13494 pv.library String eq_dec_neq thm
+R13478:13494 pv.library String eq_dec_neq thm
+R13527:13549 pv.library StringMap lookup_insert thm
+R13527:13549 pv.library StringMap lookup_insert thm
+R13527:13549 pv.library StringMap lookup_insert thm
+R13565:13580 pv.library String eq_dec_eq thm
+R13565:13580 pv.library String eq_dec_eq thm
+R13595:13601 pv.mini_functional_language <> wfTBool constr
+R13595:13601 pv.mini_functional_language <> wfTBool constr
+def 13622:13627 <> term_4
+R13631:13634 pv.mini_functional_language <> term ind
+R13641:13643 pv.mini_functional_language <> App constr
+R13646:13648 pv.mini_functional_language <> Var constr
+R13656:13658 pv.mini_functional_language <> Var constr
+prf 13673:13682 <> exercise_4
+R13688:13689 Coq.Init.Logic <> ::type_scope:'~'_x not
+R13690:13699 pv.mini_functional_language <> well_typed def
+R13701:13706 pv.mini_functional_language <> term_4 def
+R13725:13734 pv.mini_functional_language <> well_typed def
+def 13984:13989 <> term_5
+R13993:13996 pv.mini_functional_language <> term ind
+R14003:14005 pv.mini_functional_language <> Fun constr
+R14012:14015 pv.mini_functional_language <> TFun constr
+R14017:14021 pv.mini_functional_language <> TBool constr
+R14023:14026 pv.mini_functional_language <> TNat constr
+R14030:14032 pv.mini_functional_language <> Fun constr
+R14038:14042 pv.mini_functional_language <> TBool constr
+R14045:14046 pv.mini_functional_language <> If constr
+R14049:14051 pv.mini_functional_language <> Var constr
+R14059:14063 pv.mini_functional_language <> Const constr
+R14069:14072 pv.mini_functional_language <> Plus constr
+R14075:14077 pv.mini_functional_language <> Var constr
+R14085:14087 pv.mini_functional_language <> Var constr
+prf 14105:14114 <> exercise_5
+R14120:14121 Coq.Init.Logic <> ::type_scope:'~'_x not
+R14122:14131 pv.mini_functional_language <> well_typed def
+R14133:14138 pv.mini_functional_language <> term_5 def
+R14157:14166 pv.mini_functional_language <> well_typed def
+R14260:14282 pv.library StringMap lookup_insert thm
+R14260:14282 pv.library StringMap lookup_insert thm
+R14260:14282 pv.library StringMap lookup_insert thm
+R14301:14316 pv.library String eq_dec_eq thm
+R14301:14316 pv.library String eq_dec_eq thm
+R14301:14316 pv.library String eq_dec_eq thm
+def 14353:14361 <> term_15_1
+binder 14363:14364 <> T1:137
+binder 14366:14367 <> T2:138
+R14374:14376 pv.mini_functional_language <> Fun constr
+R14382:14383 pv.mini_functional_language <> T1:137 var
+R14386:14388 pv.mini_functional_language <> Fun constr
+R14394:14395 pv.mini_functional_language <> T2:138 var
+R14398:14399 pv.mini_functional_language <> If constr
+R14402:14404 pv.mini_functional_language <> Var constr
+R14412:14414 pv.mini_functional_language <> Var constr
+R14421:14424 pv.mini_functional_language <> true constr
+prf 14436:14448 <> exercise_15_1
+R14454:14460 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R14463:14464 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 14461:14462 <> T1:139
+R14465:14471 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R14474:14475 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 14472:14473 <> T2:140
+R14476:14485 pv.mini_functional_language <> well_typed def
+R14488:14496 pv.mini_functional_language <> term_15_1 def
+R14498:14499 pv.mini_functional_language <> T1:139 var
+R14501:14502 pv.mini_functional_language <> T2:140 var
+R14555:14569 pv.library StringMap empty def
+R14555:14569 pv.library StringMap empty def
+R14580:14584 pv.mini_functional_language <> T_Fun constr
+R14580:14584 pv.mini_functional_language <> T_Fun constr
+R14614:14635 pv.library StringMap lookup_empty thm
+R14614:14635 pv.library StringMap lookup_empty thm
+R14648:14652 pv.mini_functional_language <> T_Fun constr
+R14648:14652 pv.mini_functional_language <> T_Fun constr
+R14688:14710 pv.library StringMap lookup_insert thm
+R14688:14710 pv.library StringMap lookup_insert thm
+R14688:14710 pv.library StringMap lookup_insert thm
+R14725:14741 pv.library String eq_dec_neq thm
+R14725:14741 pv.library String eq_dec_neq thm
+R14774:14785 pv.mini_functional_language <> T_IfThenElse constr
+R14774:14785 pv.mini_functional_language <> T_IfThenElse constr
+R14802:14806 pv.mini_functional_language <> T_Var constr
+R14802:14806 pv.mini_functional_language <> T_Var constr
+R14837:14841 pv.mini_functional_language <> T_Var constr
+R14837:14841 pv.mini_functional_language <> T_Var constr
+R14871:14876 pv.mini_functional_language <> T_True constr
+R14871:14876 pv.mini_functional_language <> T_True constr
+def 14897:14905 <> term_15_2
+R14912:14914 pv.mini_functional_language <> Fun constr
+R14921:14924 pv.mini_functional_language <> TFun constr
+R14926:14929 pv.mini_functional_language <> TNat constr
+R14931:14935 pv.mini_functional_language <> TBool constr
+R14939:14941 pv.mini_functional_language <> Var constr
+prf 14956:14968 <> exercise_15_2
+R14974:14983 pv.mini_functional_language <> well_typed def
+R14985:14993 pv.mini_functional_language <> term_15_2 def
+R15023:15037 pv.library StringMap empty def
+R15023:15037 pv.library StringMap empty def
+R15048:15052 pv.mini_functional_language <> T_Fun constr
+R15048:15052 pv.mini_functional_language <> T_Fun constr
+prf 16710:16730 <> lookup_field_in_value
+binder 16732:16736 <> Gamma:141
+binder 16738:16739 <> vr:142
+binder 16741:16742 <> TR:143
+binder 16744:16744 <> l:144
+binder 16746:16746 <> T:145
+R16758:16763 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R16752:16754 pv.mini_functional_language <> val ind
+R16756:16757 pv.mini_functional_language <> vr:142 var
+R16781:16786 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R16764:16768 pv.mini_functional_language <> typed ind
+R16770:16774 pv.mini_functional_language <> Gamma:141 var
+R16776:16777 pv.mini_functional_language <> vr:142 var
+R16779:16780 pv.mini_functional_language <> TR:143 var
+R16816:16821 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R16807:16809 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R16787:16801 pv.mini_functional_language <> rec_type_lookup def
+R16803:16803 pv.mini_functional_language <> l:144 var
+R16805:16806 pv.mini_functional_language <> TR:143 var
+R16810:16813 Coq.Init.Datatypes <> Some constr
+R16815:16815 pv.mini_functional_language <> T:145 var
+R16822:16828 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R16830:16831 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 16829:16829 <> v:146
+R16861:16864 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R16852:16854 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R16832:16846 pv.mini_functional_language <> rec_term_lookup def
+R16848:16848 pv.mini_functional_language <> l:144 var
+R16850:16851 pv.mini_functional_language <> vr:142 var
+R16855:16858 Coq.Init.Datatypes <> Some constr
+R16860:16860 pv.mini_functional_language <> v:146 var
+R16865:16869 pv.mini_functional_language <> typed ind
+R16871:16875 pv.mini_functional_language <> Gamma:141 var
+R16877:16877 pv.mini_functional_language <> v:146 var
+R16879:16879 pv.mini_functional_language <> T:145 var
+R16986:16998 pv.library String eq_dec def
+R16986:16998 pv.library String eq_dec def
+prf 17271:17278 <> progress
+binder 17280:17280 <> M:147
+binder 17282:17282 <> T:148
+R17313:17318 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R17288:17292 pv.mini_functional_language <> typed ind
+R17294:17308 pv.library StringMap empty def
+R17310:17310 pv.mini_functional_language <> M:147 var
+R17312:17312 pv.mini_functional_language <> T:148 var
+R17319:17319 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R17325:17330 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R17351:17351 Coq.Init.Logic <> ::type_scope:x_'\/'_x not
+R17320:17322 pv.mini_functional_language <> val ind
+R17324:17324 pv.mini_functional_language <> M:147 var
+R17331:17337 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R17340:17341 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 17338:17339 <> M':149
+R17342:17345 pv.mini_functional_language <> step ind
+R17347:17347 pv.mini_functional_language <> M:147 var
+R17349:17350 pv.mini_functional_language <> M':149 var
+R17382:17396 pv.library StringMap empty def
+R17382:17396 pv.library StringMap empty def
+R17574:17595 pv.library StringMap lookup_empty thm
+R17574:17595 pv.library StringMap lookup_empty thm
+R17574:17595 pv.library StringMap lookup_empty thm
+R17787:17791 pv.mini_functional_language <> Const constr
+R17795:17797 Coq.Init.Nat <> ::nat_scope:x_'+'_x not
+R17787:17791 pv.mini_functional_language <> Const constr
+R17795:17797 Coq.Init.Nat <> ::nat_scope:x_'+'_x not
+R17820:17822 pv.mini_functional_language <> Sum constr
+R17820:17822 pv.mini_functional_language <> Sum constr
+R17910:17913 pv.mini_functional_language <> Plus constr
+R17916:17920 pv.mini_functional_language <> Const constr
+R17910:17913 pv.mini_functional_language <> Plus constr
+R17916:17920 pv.mini_functional_language <> Const constr
+R17946:17954 pv.mini_functional_language <> Sum_right constr
+R17946:17954 pv.mini_functional_language <> Sum_right constr
+R18059:18062 pv.mini_functional_language <> Plus constr
+R18059:18062 pv.mini_functional_language <> Plus constr
+R18083:18090 pv.mini_functional_language <> Sum_left constr
+R18083:18090 pv.mini_functional_language <> Sum_left constr
+R18231:18237 pv.mini_functional_language <> If_true constr
+R18231:18237 pv.mini_functional_language <> If_true constr
+R18289:18296 pv.mini_functional_language <> If_false constr
+R18289:18296 pv.mini_functional_language <> If_false constr
+R18357:18358 pv.mini_functional_language <> If constr
+R18357:18358 pv.mini_functional_language <> If constr
+R18384:18390 pv.mini_functional_language <> If_step constr
+R18384:18390 pv.mini_functional_language <> If_step constr
+R18572:18575 pv.mini_functional_language <> Beta constr
+R18572:18575 pv.mini_functional_language <> Beta constr
+R18671:18674 pv.mini_functional_language <> App2 constr
+R18671:18674 pv.mini_functional_language <> App2 constr
+R18778:18780 pv.mini_functional_language <> App constr
+R18778:18780 pv.mini_functional_language <> App constr
+R18801:18804 pv.mini_functional_language <> App1 constr
+R18801:18804 pv.mini_functional_language <> App1 constr
+R19109:19124 pv.mini_functional_language <> Eval_Record_Tail constr
+R19109:19124 pv.mini_functional_language <> Eval_Record_Tail constr
+R19239:19254 pv.mini_functional_language <> Eval_Record_Head constr
+R19239:19254 pv.mini_functional_language <> Eval_Record_Head constr
+R19371:19383 pv.library String eq_dec def
+R19371:19383 pv.library String eq_dec def
+R19424:19429 pv.mini_functional_language <> Select constr
+R19424:19429 pv.mini_functional_language <> Select constr
+R19558:19573 pv.library String eq_dec_eq thm
+R19558:19573 pv.library String eq_dec_eq thm
+R19558:19573 pv.library String eq_dec_eq thm
+R19618:19638 pv.mini_functional_language <> lookup_field_in_value thm
+R19640:19654 pv.library StringMap empty def
+R19618:19638 pv.mini_functional_language <> lookup_field_in_value thm
+R19640:19654 pv.library StringMap empty def
+R19790:19795 pv.mini_functional_language <> Select constr
+R19790:19795 pv.mini_functional_language <> Select constr
+R19922:19938 pv.library String eq_dec_neq thm
+R19922:19938 pv.library String eq_dec_neq thm
+R19922:19938 pv.library String eq_dec_neq thm
+R19922:19938 pv.library String eq_dec_neq thm
+R20041:20043 pv.mini_functional_language <> Sel constr
+R20041:20043 pv.mini_functional_language <> Sel constr
+R20064:20074 pv.mini_functional_language <> Eval_Select constr
+R20064:20074 pv.mini_functional_language <> Eval_Select constr
+def 20729:20745 <> alpha_equivalence
+binder 20747:20747 <> x:150
+binder 20749:20749 <> y:151
+binder 20751:20751 <> T:152
+binder 20753:20753 <> M:153
+R20769:20771 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R20760:20762 pv.mini_functional_language <> Fun constr
+R20764:20764 pv.mini_functional_language <> x:150 var
+R20766:20766 pv.mini_functional_language <> T:152 var
+R20768:20768 pv.mini_functional_language <> M:153 var
+R20772:20774 pv.mini_functional_language <> Fun constr
+R20776:20776 pv.mini_functional_language <> y:151 var
+R20778:20778 pv.mini_functional_language <> T:152 var
+R20781:20785 pv.mini_functional_language <> subst def
+R20787:20787 pv.mini_functional_language <> x:150 var
+R20790:20792 pv.mini_functional_language <> Var constr
+R20794:20794 pv.mini_functional_language <> y:151 var
+R20797:20797 pv.mini_functional_language <> M:153 var
+prf 20808:20816 <> weakening
+binder 20818:20822 <> Gamma:154
+binder 20824:20824 <> x:155
+binder 20826:20826 <> M:156
+binder 20828:20828 <> S:157
+binder 20830:20830 <> T:158
+R20851:20856 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R20836:20840 pv.mini_functional_language <> typed ind
+R20842:20846 pv.mini_functional_language <> Gamma:154 var
+R20848:20848 pv.mini_functional_language <> M:156 var
+R20850:20850 pv.mini_functional_language <> T:158 var
+R20888:20893 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R20881:20883 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R20857:20872 pv.library StringMap lookup def
+R20880:20880 pv.mini_functional_language <> x:155 var
+R20874:20878 pv.mini_functional_language <> Gamma:154 var
+R20884:20887 Coq.Init.Datatypes <> None constr
+R20894:20898 pv.mini_functional_language <> typed ind
+R20901:20916 pv.library StringMap insert def
+R20922:20926 pv.mini_functional_language <> Gamma:154 var
+R20920:20920 pv.mini_functional_language <> S:157 var
+R20918:20918 pv.mini_functional_language <> x:155 var
+R20929:20929 pv.mini_functional_language <> M:156 var
+R20931:20931 pv.mini_functional_language <> T:158 var
+R20984:20989 pv.mini_functional_language <> T_True constr
+R20984:20989 pv.mini_functional_language <> T_True constr
+R21002:21008 pv.mini_functional_language <> T_False constr
+R21002:21008 pv.mini_functional_language <> T_False constr
+R21021:21025 pv.mini_functional_language <> T_Int constr
+R21021:21025 pv.mini_functional_language <> T_Int constr
+R21049:21053 pv.mini_functional_language <> T_Var constr
+R21049:21053 pv.mini_functional_language <> T_Var constr
+R21070:21092 pv.library StringMap lookup_insert thm
+R21070:21092 pv.library StringMap lookup_insert thm
+R21070:21092 pv.library StringMap lookup_insert thm
+R21110:21122 pv.library String eq_dec def
+R21110:21122 pv.library String eq_dec def
+R21239:21243 pv.mini_functional_language <> T_Sum constr
+R21239:21243 pv.mini_functional_language <> T_Sum constr
+R21332:21343 pv.mini_functional_language <> T_IfThenElse constr
+R21332:21343 pv.mini_functional_language <> T_IfThenElse constr
+R21469:21473 pv.mini_functional_language <> T_App constr
+R21469:21473 pv.mini_functional_language <> T_App constr
+R21562:21567 pv.mini_functional_language <> T_Unit constr
+R21562:21567 pv.mini_functional_language <> T_Unit constr
+R21580:21585 pv.mini_functional_language <> T_RNil constr
+R21580:21585 pv.mini_functional_language <> T_RNil constr
+R21598:21604 pv.mini_functional_language <> T_RCons constr
+R21598:21604 pv.mini_functional_language <> T_RCons constr
+R21726:21733 pv.mini_functional_language <> T_Select constr
+R21726:21733 pv.mini_functional_language <> T_Select constr
+prf 21806:21817 <> substitution
+binder 21819:21823 <> Gamma:159
+binder 21825:21825 <> x:160
+binder 21827:21827 <> M:161
+binder 21829:21829 <> N:162
+binder 21831:21831 <> S:163
+binder 21833:21833 <> T:164
+R21877:21882 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R21839:21843 pv.mini_functional_language <> typed ind
+R21846:21861 pv.library StringMap insert def
+R21867:21871 pv.mini_functional_language <> Gamma:159 var
+R21865:21865 pv.mini_functional_language <> S:163 var
+R21863:21863 pv.mini_functional_language <> x:160 var
+R21874:21874 pv.mini_functional_language <> M:161 var
+R21876:21876 pv.mini_functional_language <> T:164 var
+R21898:21903 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R21883:21887 pv.mini_functional_language <> typed ind
+R21889:21893 pv.mini_functional_language <> Gamma:159 var
+R21895:21895 pv.mini_functional_language <> N:162 var
+R21897:21897 pv.mini_functional_language <> S:163 var
+R21904:21908 pv.mini_functional_language <> typed ind
+R21910:21914 pv.mini_functional_language <> Gamma:159 var
+R21917:21921 pv.mini_functional_language <> subst def
+R21923:21923 pv.mini_functional_language <> x:160 var
+R21925:21925 pv.mini_functional_language <> N:162 var
+R21927:21927 pv.mini_functional_language <> M:161 var
+R21930:21930 pv.mini_functional_language <> T:164 var
+R21962:21977 pv.library StringMap insert def
+R21962:21977 pv.library StringMap insert def
+R22083:22088 pv.mini_functional_language <> T_True constr
+R22083:22088 pv.mini_functional_language <> T_True constr
+R22101:22107 pv.mini_functional_language <> T_False constr
+R22101:22107 pv.mini_functional_language <> T_False constr
+R22120:22124 pv.mini_functional_language <> T_Int constr
+R22120:22124 pv.mini_functional_language <> T_Int constr
+R22168:22190 pv.library StringMap lookup_insert thm
+R22168:22190 pv.library StringMap lookup_insert thm
+R22168:22190 pv.library StringMap lookup_insert thm
+R22228:22240 pv.library String eq_dec def
+R22228:22240 pv.library String eq_dec def
+R22285:22301 pv.library String eq_dec_neq thm
+R22285:22301 pv.library String eq_dec_neq thm
+R22285:22301 pv.library String eq_dec_neq thm
+R22285:22301 pv.library String eq_dec_neq thm
+R22321:22325 pv.mini_functional_language <> T_Fun constr
+R22321:22325 pv.mini_functional_language <> T_Fun constr
+R22393:22401 pv.mini_functional_language <> weakening prfax
+R22393:22401 pv.mini_functional_language <> weakening prfax
+R22496:22518 pv.library StringMap insert_insert thm
+R22496:22518 pv.library StringMap insert_insert thm
+R22496:22518 pv.library StringMap insert_insert thm
+R22543:22559 pv.library String eq_dec_neq thm
+R22543:22559 pv.library String eq_dec_neq thm
+R22543:22559 pv.library String eq_dec_neq thm
+R22543:22559 pv.library String eq_dec_neq thm
+R22721:22743 pv.library StringMap lookup_insert thm
+R22721:22743 pv.library StringMap lookup_insert thm
+R22721:22743 pv.library StringMap lookup_insert thm
+R22765:22777 pv.library String eq_dec def
+R22796:22808 pv.library String eq_dec def
+R22765:22777 pv.library String eq_dec def
+R22796:22808 pv.library String eq_dec def
+R22796:22808 pv.library String eq_dec def
+R22843:22847 pv.mini_functional_language <> T_Var constr
+R22843:22847 pv.mini_functional_language <> T_Var constr
+R22984:22988 pv.mini_functional_language <> T_Sum constr
+R22984:22988 pv.mini_functional_language <> T_Sum constr
+R23220:23231 pv.mini_functional_language <> T_IfThenElse constr
+R23220:23231 pv.mini_functional_language <> T_IfThenElse constr
+R23397:23401 pv.mini_functional_language <> T_App constr
+R23397:23401 pv.mini_functional_language <> T_App constr
+R23446:23451 pv.mini_functional_language <> T_Unit constr
+R23446:23451 pv.mini_functional_language <> T_Unit constr
+R23464:23469 pv.mini_functional_language <> T_RNil constr
+R23464:23469 pv.mini_functional_language <> T_RNil constr
+R23493:23499 pv.mini_functional_language <> T_RCons constr
+R23493:23499 pv.mini_functional_language <> T_RCons constr
+R23704:23711 pv.mini_functional_language <> T_Select constr
+R23704:23711 pv.mini_functional_language <> T_Select constr
+prf 23810:23835 <> step_preserves_record_term
+binder 23837:23838 <> TR:165
+binder 23840:23842 <> TR':166
+R23859:23864 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R23848:23855 pv.mini_functional_language <> rec_term ind
+R23857:23858 pv.mini_functional_language <> TR:165 var
+R23876:23881 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R23865:23868 pv.mini_functional_language <> step ind
+R23870:23871 pv.mini_functional_language <> TR:165 var
+R23873:23875 pv.mini_functional_language <> TR':166 var
+R23882:23889 pv.mini_functional_language <> rec_term ind
+R23891:23893 pv.mini_functional_language <> TR':166 var
+prf 24013:24029 <> type_preservation
+binder 24031:24035 <> Gamma:167
+binder 24037:24037 <> M:168
+binder 24039:24040 <> M':169
+binder 24042:24042 <> T:170
+R24063:24068 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R24048:24052 pv.mini_functional_language <> typed ind
+R24054:24058 pv.mini_functional_language <> Gamma:167 var
+R24060:24060 pv.mini_functional_language <> M:168 var
+R24062:24062 pv.mini_functional_language <> T:170 var
+R24078:24083 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R24069:24072 pv.mini_functional_language <> step ind
+R24074:24074 pv.mini_functional_language <> M:168 var
+R24076:24077 pv.mini_functional_language <> M':169 var
+R24084:24088 pv.mini_functional_language <> typed ind
+R24090:24094 pv.mini_functional_language <> Gamma:167 var
+R24096:24097 pv.mini_functional_language <> M':169 var
+R24099:24099 pv.mini_functional_language <> T:170 var
+R24200:24204 pv.mini_functional_language <> T_Int constr
+R24200:24204 pv.mini_functional_language <> T_Int constr
+R24252:24256 pv.mini_functional_language <> T_Sum constr
+R24252:24256 pv.mini_functional_language <> T_Sum constr
+R24337:24341 pv.mini_functional_language <> T_Sum constr
+R24337:24341 pv.mini_functional_language <> T_Sum constr
+R24471:24482 pv.mini_functional_language <> T_IfThenElse constr
+R24471:24482 pv.mini_functional_language <> T_IfThenElse constr
+R24568:24579 pv.mini_functional_language <> substitution thm
+R24568:24579 pv.mini_functional_language <> substitution thm
+R24661:24665 pv.mini_functional_language <> T_App constr
+R24661:24665 pv.mini_functional_language <> T_App constr
+R24747:24751 pv.mini_functional_language <> T_App constr
+R24747:24751 pv.mini_functional_language <> T_App constr
+R24812:24832 pv.mini_functional_language <> lookup_field_in_value thm
+R24812:24832 pv.mini_functional_language <> lookup_field_in_value thm
+R25041:25048 pv.mini_functional_language <> T_Select constr
+R25041:25048 pv.mini_functional_language <> T_Select constr
+R25128:25134 pv.mini_functional_language <> T_RCons constr
+R25128:25134 pv.mini_functional_language <> T_RCons constr
+R25247:25253 pv.mini_functional_language <> T_RCons constr
+R25247:25253 pv.mini_functional_language <> T_RCons constr
+R25301:25326 pv.mini_functional_language <> step_preserves_record_term thm
+R25301:25326 pv.mini_functional_language <> step_preserves_record_term thm
+prf 25398:25423 <> extended_type_preservation
+binder 25425:25425 <> M:171
+binder 25427:25428 <> M':172
+binder 25430:25430 <> T:173
+R25461:25466 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R25436:25440 pv.mini_functional_language <> typed ind
+R25442:25456 pv.library StringMap empty def
+R25458:25458 pv.mini_functional_language <> M:171 var
+R25460:25460 pv.mini_functional_language <> T:173 var
+R25477:25482 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R25467:25471 pv.mini_functional_language <> steps ind
+R25473:25473 pv.mini_functional_language <> M:171 var
+R25475:25476 pv.mini_functional_language <> M':172 var
+R25483:25487 pv.mini_functional_language <> typed ind
+R25489:25503 pv.library StringMap empty def
+R25505:25506 pv.mini_functional_language <> M':172 var
+R25508:25508 pv.mini_functional_language <> T:173 var
+R25587:25603 pv.mini_functional_language <> type_preservation thm
+R25587:25603 pv.mini_functional_language <> type_preservation thm
+def 25654:25658 <> stuck
+binder 25660:25660 <> M:174
+R25675:25678 Coq.Init.Logic <> ::type_scope:x_'/\'_x not
+R25667:25668 Coq.Init.Logic <> ::type_scope:'~'_x not
+R25674:25674 Coq.Init.Logic <> ::type_scope:'~'_x not
+R25669:25671 pv.mini_functional_language <> val ind
+R25673:25673 pv.mini_functional_language <> M:174 var
+R25679:25680 Coq.Init.Logic <> ::type_scope:'~'_x not
+R25701:25701 Coq.Init.Logic <> ::type_scope:'~'_x not
+R25681:25687 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+R25690:25691 Coq.Init.Logic <> ::type_scope:'exists'_x_'..'_x_','_x not
+binder 25688:25689 <> M':175
+R25692:25695 pv.mini_functional_language <> step ind
+R25697:25697 pv.mini_functional_language <> M:174 var
+R25699:25700 pv.mini_functional_language <> M':175 var
+prf 25713:25718 <> safety
+binder 25720:25720 <> M:176
+binder 25722:25723 <> M':177
+binder 25725:25725 <> T:178
+R25756:25761 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R25731:25735 pv.mini_functional_language <> typed ind
+R25737:25751 pv.library StringMap empty def
+R25753:25753 pv.mini_functional_language <> M:176 var
+R25755:25755 pv.mini_functional_language <> T:178 var
+R25772:25777 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R25762:25766 pv.mini_functional_language <> steps ind
+R25768:25768 pv.mini_functional_language <> M:176 var
+R25770:25771 pv.mini_functional_language <> M':177 var
+R25778:25779 Coq.Init.Logic <> ::type_scope:'~'_x not
+R25788:25788 Coq.Init.Logic <> ::type_scope:'~'_x not
+R25780:25784 pv.mini_functional_language <> stuck def
+R25786:25787 pv.mini_functional_language <> M':177 var
+R25840:25865 pv.mini_functional_language <> extended_type_preservation thm
+R25840:25865 pv.mini_functional_language <> extended_type_preservation thm
+R25891:25898 pv.mini_functional_language <> progress thm
+R25891:25898 pv.mini_functional_language <> progress thm
